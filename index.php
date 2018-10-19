@@ -36,9 +36,9 @@
 
           <h1 class="my-4">Leclerc</h1>
           <div class="list-group">
-            <a href="#" class="list-group-item">Epicerie</a>
-            <a href="#" class="list-group-item">Surgelés</a>
-            <a href="#" class="list-group-item">Viande/Poisson</a>
+            <a href="epicerie.php" class="list-group-item">Epicerie</a>
+            <a href="surgeles.php" class="list-group-item">Surgelés</a>
+            <a href="viande.php" class="list-group-item">Viande/Poisson</a>
           </div>
 
         </div>
