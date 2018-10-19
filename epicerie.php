@@ -40,8 +40,8 @@
               <h4 class="card-title">
                 <a href="#">Uncle Ben's</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Riz express 2mns Uncle Ben's Citron/romarin, 2 minutes 250g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -52,8 +52,8 @@
               <h4 class="card-title">
                 <a href="#">Pâtes Torti Panzani</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Pâtes Torti Panzani 500g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -64,8 +64,8 @@
               <h4 class="card-title">
                 <a href="#">Sauce bolognaise Panzani</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Sauce bolognaise Panzani Pleine saveur - 210g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -76,8 +76,8 @@
               <h4 class="card-title">
                 <a href="#">Purée à l'ancienne Mousline</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Purée à l'ancienne Mousline Crème & Muscade - 4x125g - 500g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -88,8 +88,8 @@
               <h4 class="card-title">
                 <a href="#">Lentilles vertes Bio Village</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Lentilles vertes Bio Village 500g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -100,8 +100,8 @@
               <h4 class="card-title">
                 <a href="#">Céréales Extra Kellogg's</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Céréales Extra Kellogg's Pépites Chocolat lait - 800g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -112,8 +112,8 @@
               <h4 class="card-title">
                 <a href="#">Pains au lait Pasquier</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Pains au lait Pasquier x20 - 700g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -124,8 +124,8 @@
               <h4 class="card-title">
                 <a href="#">Confiture Bonne Maman</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Confiture Bonne Maman Fraise - 370g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>

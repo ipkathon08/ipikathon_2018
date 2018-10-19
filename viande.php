@@ -40,8 +40,8 @@
               <h4 class="card-title">
                 <a href="#">Rôti</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Porc : Rôti fumé Origine France - 850g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -52,8 +52,8 @@
               <h4 class="card-title">
                 <a href="#">Paupiette Férial</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Porc : Paupiette Férial x6 - 780g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -64,8 +64,8 @@
               <h4 class="card-title">
                 <a href="#">Steak haché Férial</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Steak haché Férial - 5%mg - 2x125g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -76,8 +76,8 @@
               <h4 class="card-title">
                 <a href="#">Poulet Auvergne fermier</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Poulet Auvergne fermier - Blanc Label Rouge - 1,5kg</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -88,8 +88,8 @@
               <h4 class="card-title">
                 <a href="#">Cuisse de poulet</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Cuisse de poulet - 3kg</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -100,8 +100,8 @@
               <h4 class="card-title">
                 <a href="#">Pilons de poulet Plukon</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Pilons de poulet Plukon - Barquette - 1kg</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -112,8 +112,8 @@
               <h4 class="card-title">
                 <a href="#">Cordon bleu Père Dodu</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Cordon bleu Père Dodu - Poulet avec bacon dinde - 200g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -124,8 +124,8 @@
               <h4 class="card-title">
                 <a href="#">Coq'ailes Maître Coq</a>
               </h4>
+              <h2>10 €</h2>
               <p class="card-text">Coq'ailes Maître Coq - Grillé - 250g</p>
-              <p>10 €</p>
             </div>
           </div>
         </div>
