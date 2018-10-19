@@ -18,7 +18,7 @@
 
   </head>
 
-  <body>
+  <body style="background: linear-gradient(black, white) no-repeat fixed;">
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
