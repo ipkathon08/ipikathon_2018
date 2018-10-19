@@ -41,6 +41,7 @@
                 <a href="#">Crème glacée Häagen Dazs</a>
               </h4>
               <p class="card-text">Crème glacée Häagen Dazs - Vanille - 430g</p>
+              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -52,6 +53,7 @@
                 <a href="#">Glace Trofic Trium</a>
               </h4>
               <p class="card-text">Glace Trofic Trium - Vanille chocolat x4 - 314g</p>
+              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -63,6 +65,7 @@
                 <a href="#">Glace confiserie premium Magnum</a>
               </h4>
               <p class="card-text">Glace confiserie premium Magnum - Double chocolat - x6 - 300g</p>
+              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -74,6 +77,7 @@
                 <a href="#">Glace Cône Smicy</a>
               </h4>
               <p class="card-text">Glace Cône Smicy - Café x6 - 438g</p>
+              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -85,6 +89,7 @@
                 <a href="#">Glace barres glacées Mars</a>
               </h4>
               <p class="card-text">Glace barres glacées Mars - Caramel beurre salé - x6 - 224g</p>
+              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -96,6 +101,7 @@
                 <a href="#">Glace Pop up Smarties</a>
               </h4>
               <p class="card-text">Glace Pop up Smarties - x5 - 260g</p>
+              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -107,6 +113,7 @@
                 <a href="#">Nappage chocolat Vahiné</a>
               </h4>
               <p class="card-text">Nappage chocolat Vahiné - 350g</p>
+              <p>10 €</p>
             </div>
           </div>
         </div>
@@ -118,6 +125,7 @@
                 <a href="#">Glace gourmande Eskiss</a>
               </h4>
               <p class="card-text">Glace gourmande Eskiss - Citron meringué - 488g</p>
+              <p>10 €</p>
             </div>
           </div>
         </div>

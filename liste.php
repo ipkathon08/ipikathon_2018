@@ -42,6 +42,7 @@
         <div class="col-md-5">
           <h3>Crème glacée Häagen Dazs</h3>
           <p>Crème glacée Häagen Dazs - Vanille - 430g</p>
+          <p>10 €</p>
         </div>
       </div>
       <!-- /.row -->
@@ -58,6 +59,7 @@
         <div class="col-md-5">
           <h3>Glace gourmande Eskiss</h3>
           <p>Glace gourmande Eskiss - Citron meringué - 488g</p>
+          <p>10 €</p>
         </div>
       </div>
       <!-- /.row -->
@@ -74,6 +76,7 @@
         <div class="col-md-5">
           <h3>Poulet Auvergne fermier</h3>
           <p>Poulet Auvergne fermier - Blanc Label Rouge - 1,5kg</p>
+          <p>10 €</p>
         </div>
       </div>
       <!-- /.row -->
@@ -91,13 +94,13 @@
         <div class="col-md-5">
           <h3>Rôti fumé Origine France</h3>
           <p>Porc : Rôti fumé Origine France - 850g</p>
+          <p>10 €</p>
         </div>
       </div>
       <!-- /.row -->
 
       <hr>
-
-      <button type="button" class="btn btn-info col-md-12">Payer</button>
+      <button type="button" class="btn btn-info col-md-12">Payer : 40 €</button>
 
     </div>
   </div>
