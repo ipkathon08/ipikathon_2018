@@ -28,7 +28,7 @@
     </nav>
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="container" style="margin-top: 20px">
 
       <div class="row">
 
@@ -39,6 +39,7 @@
             <a href="epicerie.php" class="list-group-item">Epicerie</a>
             <a href="surgeles.php" class="list-group-item">Surgelés</a>
             <a href="viande.php" class="list-group-item">Viande/Poisson</a>
+            <a href="liste.php" class="list-group-item">Liste de course</a>
           </div>
 
         </div>
@@ -84,13 +85,6 @@
     </div>
     <!-- /.container -->
 
-    <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
-      </div>
-      <!-- /.container -->
-    </footer>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
